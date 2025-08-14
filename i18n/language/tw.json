@@ -1,4 +1,19 @@
 {
-  "welcome": "歡迎",
-  "test": "測試"
+  "op": "操作",
+  "list": "清單",
+  "name": "名字",
+  "age": "年齡",
+  "edit": "修改",
+  "create": "新增",
+  "delete": "刪除",
+  "cancel": "取消",
+  "ok": "確認",
+
+  "confirmAdd": "確認新增",
+  "confirmEdit": "確認修改",
+  "confirmDelete": "確認刪除",
+
+  "addMsg": "要新增「{name} / {age}」嗎？",
+  "editMsg": "要把 #{id} 修改為「{name} / {age}」嗎？",
+  "delMsg": "刪除 #{id} 這筆資料？"
 }
